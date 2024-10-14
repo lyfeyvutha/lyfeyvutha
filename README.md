@@ -1,8 +1,7 @@
 <h1>lyfeyvutha</h1>
 
 <h3>
-基本上Private存储库正在开发。<br>
-另外，由于公开仓储物品多为粗制滥造，粗制滥造，敬请谅解。
+Available for hire.
 </h3>
 
 
