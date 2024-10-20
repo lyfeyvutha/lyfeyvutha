@@ -1,7 +1,7 @@
 <h1>lyfeyvutha</h1>
 
 <h3>
-Welcome for work and let's get back to <i>cracking</i>!
+Open for work and let's get back to <i>cracking</i>!
 </h3>​
 
 <p>
