@@ -1,6 +1,7 @@
-# Chealyfey Vutha | AI Engineer
+# Chealyfey Vutha | AI Engineer <img align="center" alt="NLP" src="https://img.shields.io/badge/NLP%20Specialist-4169E1?style=for-the-badge&logoColor=white" />
 
-## About Me <img align="center" alt="AI" src="https://img.shields.io/badge/AI%20Engineer-4169E1?style=for-the-badge&logoColor=white" />
+
+## About Me 
 
 I am an AI Engineer specializing in **machine learning**, **deep learning**, and **natural language processing (NLP)**.
 
