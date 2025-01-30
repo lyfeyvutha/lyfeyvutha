@@ -29,7 +29,6 @@ An advanced Telegram bot that transcribes voice messages, translates them to Khm
 - NLP Tools: Hugging Face Transformers, spaCy, NLTK
 - Data Engineering: Pandas, NumPy, SQL
 - DevOps & Cloud: Docker, Kubernetes, AWS, GCP
-- Visualization: Matplotlib, Seaborn, Plotly
 
 ---
 
