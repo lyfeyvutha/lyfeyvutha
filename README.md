@@ -2,11 +2,12 @@
 
 ## About Me
 
-With a growing expertise in **machine learning**, **deep learning**, and **natural language processing (NLP)**. My passion lies in developing innovative AI solutions that address real-world challenges.
+A Python enthusiast equipped with excellent programming skills, graduated with a **B.Sc. in Computer Science (Magna Cum Laude)** from [Fort Hays State University (FHSU)](https://www.fhsu.edu/), specializing in **machine learning**, **deep learning**, and **natural language processing (NLP)**. My passion lies in developing innovative AI solutions that address real-world challenges.
 
-Currently, I'm working on [TranslateKH](https://translatekh.mptc.gov.kh/), a project aimed at enhancing Khmer language translation and accessibility.
+Currently, I'm working on [TranslateKH](https://translatekh.mptc.gov.kh/), a government-backed initiative enhancing Khmer language accessibility through advanced AI.
 
 ## Featured Projects
+
 ### [Translate KH](https://translatekh.mptc.gov.kh/)
 An innovative machine translation application designed to seamlessly convert text between Khmer and English using advanced artificial intelligence. It aims to serve the people of Cambodia by offering a reliable and accurate translation solution tailored to the nuances of the Khmer language. 
 ### [Transcribe KH Bot](https://github.com/lyfeyvutha/transcribe-kh-bot)
