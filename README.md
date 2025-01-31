@@ -1,8 +1,8 @@
-# Chealyfey Vutha <img align="right" alt="AI Engineer" src="https://img.shields.io/badge/AI%20Engineer-4169E1?style=for-the-badge&logoColor=white" />
+# Chealyfey Vutha 
 
 ## About Me
 
-A Python enthusiast equipped with excellent programming skills, graduated with a **B.Sc. in Computer Science (Magna Cum Laude)** from [Fort Hays State University (FHSU)](https://www.fhsu.edu/), specializing in **machine learning**, **deep learning**, and **natural language processing (NLP)**. My passion lies in developing innovative AI solutions that address real-world challenges.
+AI Engineer with a **B.Sc. in Computer Science (Magna Cum Laude)** from [Fort Hays State University (FHSU)](https://www.fhsu.edu/), specializing in **machine learning**, **deep learning**, and **natural language processing (NLP)**. My passion lies in developing innovative AI solutions that address real-world challenges.
 
 Currently, I'm working on [TranslateKH](https://translatekh.mptc.gov.kh/), a government-backed initiative enhancing Khmer language accessibility through advanced AI.
 
