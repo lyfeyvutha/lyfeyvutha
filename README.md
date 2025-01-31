@@ -1,4 +1,4 @@
-# Chealyfey Vutha | AI Engineer <img align="center" alt="NLP" src="https://img.shields.io/badge/NLP%20Specialist-4169E1?style=for-the-badge&logoColor=white" />
+# Chealyfey Vutha <img align="center" alt="AI" src="https://img.shields.io/badge/AI%20Engineer-4169E1?style=for-the-badge&logoColor=white" />
 
 
 ## About Me 
@@ -62,7 +62,18 @@ An advanced Telegram bot that transcribes voice messages, translates them to Khm
 
 ## Professional Network
 
-<a href="https://www.linkedin.com/in/lyfeyvutha"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:lyfeytech@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/lyfeyvutha"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:lyfeytech@gmail.com"><img src="https://img.shields.io/badge/Contact%20via%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
+### Community Impact
 <img src="https://img.shields.io/github/followers/lyfeyvutha?label=Followers&style=social" alt="GitHub Followers" /> <img src="https://img.shields.io/github/stars/lyfeyvutha?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub User's stars" />
+
+### Recent Recognitions
+- Contributor to Khmer NLP Open Source Projects (2024)
+- Huawei Industry Competition - Cloud Track
+- Speaker at the National University of Singapore (NUS) for Asian Undergraduate Symposium, Singapore (2024)
+
+---
+
+*"Innovating at the intersection of AI and language to bridge communication gaps and empower communities."*
+
