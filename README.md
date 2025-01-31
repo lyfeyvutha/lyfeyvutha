@@ -1,17 +1,18 @@
-# Chealyfey Vutha <img align="center" alt="AI" src="https://img.shields.io/badge/AI%20Engineer-4169E1?style=for-the-badge&logoColor=white" />
+# Chealyfey Vutha <img align="right" alt="AI" src="https://img.shields.io/badge/AI%20Engineer-4169E1?style=for-the-badge&logoColor=white" />
 
+## About Me
 
-## About Me 
+I'm an AI Engineer with a growing expertise in **machine learning**, **deep learning**, and **natural language processing (NLP)**. My passion lies in developing innovative AI solutions that address real-world challenges.
 
-I am an AI Engineer specializing in **machine learning**, **deep learning**, and **natural language processing (NLP)**.
+Currently, I'm contributing to [TranslateKH](https://translatekh.mptc.gov.kh/), a project aimed at enhancing Khmer language translation and accessibility.
 
-Currently, I'm working on <a href="https://translatekh.mptc.gov.kh/"> TranslateKH</a>, a project aimed at improving Khmer language translation and accessibility.
-
----
-
-## Featured Project
+## Featured Projects
+### [Translate KH](https://translatekh.mptc.gov.kh/)
+An innovative machine translation application designed to seamlessly convert text between Khmer and English using advanced artificial intelligence. It aims to serve the people of Cambodia by offering a reliable and accurate translation solution tailored to the nuances of the Khmer language. 
 ### [Transcribe KH Bot](https://github.com/lyfeyvutha/transcribe-kh-bot)
-An advanced Telegram bot that transcribes voice messages, translates them to Khmer, and generates Khmer speech. It leverages state-of-the-art AI models for speech recognition, translation, and text-to-speech synthesis.
+An advanced Telegram bot leveraging AI for Khmer speech recognition, translation, and text-to-speech synthesis. This project demonstrates the practical application of NLP techniques in real-world scenarios.
+### [Heritage Plate](https://credentials.nus.edu.sg/be28b90c-737b-45cb-af12-6e8926364aa5#acc.ztmSYEdP)
+A Flutter-based mobile application designed to archive user-generated recipes, funded by the National University of Singapore (NUS). It was designed with a focus on preserving culinary traditions through technology.
 
 ---
 
@@ -61,19 +62,18 @@ An advanced Telegram bot that transcribes voice messages, translates them to Khm
 ---
 
 ## Professional Network
+<p align="left">
+  <a href="https://www.linkedin.com/in/lyfeyvutha">
+    <img src="https://img.shields.io/badge/-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn">
+  </a>
+  <a href="mailto:lyfeytech@gmail.com">
+    <img src="https://img.shields.io/badge/-Discuss%20Opportunities-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 
-<a href="https://www.linkedin.com/in/lyfeyvutha"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:lyfeytech@gmail.com"><img src="https://img.shields.io/badge/Contact%20via%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-
-### Community Impact
-<img src="https://img.shields.io/github/followers/lyfeyvutha?label=Followers&style=social" alt="GitHub Followers" /> <img src="https://img.shields.io/github/stars/lyfeyvutha?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub User's stars" />
-
-### Recent Recognitions
-- Contributor to Khmer NLP Open Source Projects (2024)
-- Huawei Industry Competition - Cloud Track
-- Speaker at the National University of Singapore (NUS) for Asian Undergraduate Symposium, Singapore (2024)
+<div align="left">
+  <img src="https://img.shields.io/github/followers/lyfeyvutha?label=Community%20Engagement&style=social&color=586069" alt="GitHub Followers">
+  <img src="https://img.shields.io/github/stars/lyfeyvutha?affiliations=OWNER%2CCOLLABORATOR&label=Project%20Impact&style=social&color=586069" alt="GitHub Stars">
+</div>
 
 ---
-
 *"Innovating at the intersection of AI and language to bridge communication gaps and empower communities."*
-
