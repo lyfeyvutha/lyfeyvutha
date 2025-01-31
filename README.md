@@ -1,10 +1,10 @@
-# Chealyfey Vutha <img align="right" alt="AI" src="https://img.shields.io/badge/AI%20Engineer-4169E1?style=for-the-badge&logoColor=white" />
+# Chealyfey Vutha <img align="right" alt="AI Engineer" src="https://img.shields.io/badge/AI%20Engineer-4169E1?style=for-the-badge&logoColor=white" />
 
 ## About Me
 
-I'm an AI Engineer with a growing expertise in **machine learning**, **deep learning**, and **natural language processing (NLP)**. My passion lies in developing innovative AI solutions that address real-world challenges.
+With a growing expertise in **machine learning**, **deep learning**, and **natural language processing (NLP)**. My passion lies in developing innovative AI solutions that address real-world challenges.
 
-Currently, I'm contributing to [TranslateKH](https://translatekh.mptc.gov.kh/), a project aimed at enhancing Khmer language translation and accessibility.
+Currently, I'm working on [TranslateKH](https://translatekh.mptc.gov.kh/), a project aimed at enhancing Khmer language translation and accessibility.
 
 ## Featured Projects
 ### [Translate KH](https://translatekh.mptc.gov.kh/)
