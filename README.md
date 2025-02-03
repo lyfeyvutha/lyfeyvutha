@@ -4,11 +4,11 @@
 
 AI Engineer with a **B.Sc. in Computer Science (Magna Cum Laude)** from [Fort Hays State University (FHSU)](https://www.fhsu.edu/), specializing in **machine learning**, **deep learning**, and **natural language processing (NLP)**. My passion lies in developing innovative AI solutions that address real-world challenges.
 
-Currently, I'm working on [TranslateKH](https://translatekh.mptc.gov.kh/), a government-backed initiative enhancing Khmer language accessibility through advanced AI.
+Currently, I'm working on [TranslateKH](https://translate.kh), a government-backed initiative enhancing Khmer language accessibility through advanced AI.
 
 ## Featured Projects
 
-### [Translate KH](https://translatekh.mptc.gov.kh/)
+### [Translate KH](https://translate.kh)
 An innovative machine translation application designed to seamlessly convert text between Khmer and English using advanced artificial intelligence. It aims to serve the people of Cambodia by offering a reliable and accurate translation solution tailored to the nuances of the Khmer language. 
 ### [Transcribe KH Bot](https://github.com/lyfeyvutha/transcribe-kh-bot)
 An advanced Telegram bot leveraging AI for Khmer speech recognition, translation, and text-to-speech synthesis. This project demonstrates the practical application of NLP techniques in real-world scenarios.
