@@ -11,7 +11,7 @@ Currently, I'm working on [TranslateKH](https://translate.kh), a government-back
 ### [Transform KH Bot - Speech to Speech](https://github.com/lyfeyvutha/transform-kh-bot)
 Transform KH Bot is an advanced Telegram bot that makes speech-to-speech conversion easy. It transcribes voice messages in English or Khmer, translates them into the other language, and generates natural-sounding speech using open-source AI models for speech recognition, translation, and text-to-speech synthesis.
 ### [Transcribe KH Bot - Speech to Text](https://github.com/lyfeyvutha/transcribe-kh-bot)
-Transcribe KH Bot is an advanced Telegram bot designed for speech-to-text tasks. It transcribes English voice messages, translates them into Khmer, and generates Khmer text using open-source AI models for speech recognition and translation. In its latest version, it also includes the ability to generate Khmer speech, making it even more versatile.
+Transcribe KH Bot is an advanced Telegram bot designed for speech-to-text tasks. It transcribes English voice messages, translates them into Khmer, and generates Khmer text using open-source AI models for speech recognition and translation. 
 ### [Heritage Plate](https://credentials.nus.edu.sg/be28b90c-737b-45cb-af12-6e8926364aa5#acc.ztmSYEdP)
 A Flutter-based mobile application designed to archive user-generated recipes, funded by the National University of Singapore (NUS). It was designed with a focus on preserving culinary traditions through technology.
 
