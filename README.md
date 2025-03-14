@@ -16,14 +16,6 @@ Transcribe KH Bot is an advanced Telegram bot designed for speech-to-text tasks.
 A Flutter-based mobile application designed to archive user-generated recipes, funded by the National University of Singapore (NUS). It was designed with a focus on preserving culinary traditions through technology. [Slides](https://docs.google.com/presentation/d/1tPTVsQU48EfZXDyQYG8H6mvt-iIyu2CW2ycp22Iuvg4/edit?usp=sharing) & [Prototype](https://www.figma.com/community/file/1271724630466167245/heritage-plate-aus-prototype)
 
 ---
-
-## Professional Experience
-
-- **AI Engineer | [Ministry of Post and Telecommunications (MPTC)](https://mptc.gov.kh/en/) | 2025 - Present**
-- **Software Engineering Intern | [Digital Government Committee (DGC)](https://dgc.gov.kh/en) | Spring 2024**
-- **Intern | [Carnegie Mellon University Thailand (CMKL University)](https://www.cmkl.ac.th/) | Winter 2023**
-  
----
 ## Technical Proficiencies
 
 **Core AI Development**  
