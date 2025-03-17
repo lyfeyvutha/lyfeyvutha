@@ -44,13 +44,6 @@ A Flutter-based mobile application designed to archive user-generated recipes, f
 
 ---
 
-## GitHub Analytics
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lyfeyvutha&count_private=true&show_icons=true&theme=tokyonight" /></a> | <a href="https://github-profile-summary-cards.vercel.app/"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lyfeyvutha&theme=tokyonight" /></a> |
-| ------------- | ------------- |
-
----
-
 ## Professional Network
 <p align="left">
   <a href="https://www.linkedin.com/in/lyfeyvutha">
