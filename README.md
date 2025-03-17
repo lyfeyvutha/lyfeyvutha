@@ -1,8 +1,9 @@
 # Chealyfey Vutha 
 
 ## About Me
-
 I am an [AWS Certified](https://www.credly.com/badges/e28d8188-8015-4bf7-8050-4c66c367d391) AI Engineer at [MPTC](https://mptc.gov.kh/en), specializing in **machine learning**, **deep learning**, and **natural language processing (NLP)**. When I was at [Fort Hays State University](https://www.fhsu.edu/), my work spans innovative projects in data search algorithms, copyright protection systems, and personalized recommendation engines—all while collaborating with an amazing community of developers.
+
+---
 
 ## Current Research Project
 
