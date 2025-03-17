@@ -16,35 +16,27 @@ Transcribe KH Bot is an advanced Telegram bot designed for speech-to-text tasks.
 A Flutter-based mobile application designed to archive user-generated recipes, funded by the National University of Singapore (NUS). It was designed with a focus on preserving culinary traditions through technology. [Slides](https://docs.google.com/presentation/d/1tPTVsQU48EfZXDyQYG8H6mvt-iIyu2CW2ycp22Iuvg4/edit?usp=sharing) & [Prototype](https://www.figma.com/community/file/1271724630466167245/heritage-plate-aus-prototype)
 
 ---
-## Technical Proficiencies
 
-**Core AI Development**  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![JAX](https://img.shields.io/badge/JAX-4A76CD?logo=jax&logoColor=white)
+## Skills & Technologies
 
-**Scientific Computing**  
-![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
+### Languages
+![Languages](https://skillicons.dev/icons?i=python,go,c,js,java)
 
-**Production Engineering**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+### Frameworks 
+![Frameworks](https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn,opencv,react,flutter,fastapi)
 
-**Architectural Expertise**  
-![ML Pipelines](https://img.shields.io/badge/ML_Pipelines-FFAE33?logo=apache-airflow&logoColor=white)
-![Distributed Training](https://img.shields.io/badge/Distributed_Systems-4285F4?logo=google-cloud&logoColor=white)
+### Platforms
+![Platforms](https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,git,linux,ubuntu,pycharm)
 
-**Performance Optimization**  
-![CUDA](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white)
-![ONNX](https://img.shields.io/badge/ONNX-005CED?logo=onnx&logoColor=white)
+### Core Competencies
+- Algorithm design & data structures  
+- Real-time and parallel computing  
+- Open-source collaboration and tool development
+
 
 ---
 
-## Professional Network
+## Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/lyfeyvutha">
     <img src="https://img.shields.io/badge/-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn">
