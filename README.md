@@ -20,7 +20,7 @@ I am an [AWS Certified](https://www.credly.com/badges/e28d8188-8015-4bf7-8050-4c
 ---
 ## Current Research Project
 
-### 🚀 [TranslateKH](https://translate.kh)
+### 🚀 [TranslateKH](https://translatekh.mptc.gov.kh)
 A government-backed initiative aimed at enhancing Khmer language accessibility through advanced AI technologies.
 
 ---
