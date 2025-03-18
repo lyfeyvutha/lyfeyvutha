@@ -37,10 +37,9 @@ A Flutter-based mobile application designed to archive user-generated recipes, f
 ---
 
 ## Connect & Collaborate
+
 💬 I welcome collaboration, feedback, and new challenges!
 
-📧 Email: c_vutha@mai.fhsu.edu
-
-Feel free to fork my projects, open an issue, or submit a pull request.
+📧 Email: c_vutha@mail.fhsu.edu
 
 ---
